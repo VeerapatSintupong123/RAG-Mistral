@@ -1,2 +1,4 @@
 .env
 data.csv
+scopus_data.csv
+scopus_data_cleaned.csv
