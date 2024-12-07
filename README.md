@@ -10,6 +10,10 @@ Chat with **Mistral-7B-Instruct** using context retrieved from a **Neo4j** vecto
 - **Integration with Mistral-7B-Instruct model** for natural language processing.
 - **Keyword extraction** from relevant articles for enhanced context-based responses.
 
+## App:
+[HuggingFace Space](https://huggingface.co/spaces/Adventure123/Chatbot-Intro-DSDE)
+
+
 ## Installation:
 
 1. Clone the repository:
